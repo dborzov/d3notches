@@ -1,5 +1,9 @@
 *.py[cod]
 
+# sublime stuff
+d3notches.sublime-project
+d3notches.sublime-workspace
+
 # C extensions
 *.so
 
